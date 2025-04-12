@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:career_paths/api/model/usermodel.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-
 import '../provider/profile_provider.dart';
 import 'Const Api/api_constant.dart';
 import 'model/intrestedFieldListModel.dart';
